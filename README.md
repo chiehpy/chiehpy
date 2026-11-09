@@ -1,31 +1,35 @@
 # chiehpy
 
 ```text
-          :Xh#&@@@@@@@@@&G2:
-       .sM#BB@B2rMM3h2XM#B&@Ss.
-      XS#BB&@Mi,:;::::,::;isS@BX         chiehpy@github
-    ;MBBBB@&Xiri::,:;;;;;i;,:rM@Gi       ---------------------------------
-   sBBBBB@S;,Xr,.......,:;i;:::S@Bs
-  X&&&&&@MiXi::,::;,..,,,,::;;:h@&&X     $ whoami
- s&@&&@@X r;3hXsrrsrirrr;,,;;;i;h@BBr    Desarrollo de aplicaciones Android
-:#@@@&GX;5r2Sh52XXXXXXXXsi,,,:;r:S&BG:
-5@@@@3,2s:h&hXs2X25553555r;Xs:sS:i@&B2
-#@@@@B3. :3ShXirrh322ssssshSMsrhhi3@@#   $ cat stack
-@@@@&@B. X#352;isM5XX;irXsXhGr .iMrXhS   Lenguajes .... Kotlin / Java / Python
-&&&&B&#  G#3XXXX3h3X22sX223hS:..s3h: .   Plataforma ... Android / Gradle
-B&&&B&G .&S2XXssMM2322533hMMG,.:M5X ,,
-BBG#&@3  S#X;iX225ss2Xs2333MM. 555,.,.
-#G35GGMXsG#i;r2XXssXX2siX55SX ih2;.,..   $ ls proyectos/
-hG5255hSSG#3r335sXXXsr2X55Gh .Xs, ...    ./tecnicos-app
-sGs23GSGSSs5GGhhsrsX2555252  .. .:..     Android / Kotlin
-,3;s5hMSBX ;&Sh3255552XsX3,,..  ..
- i3XhSSMr:r5@SM2rsXsrir232.:,,:,,...
-  X#G5; ;:2iG@#2iiirX5hXii ...:,:::,
-   ,: .Xi si,XGh55332r,:i.... :,,,,
-    .s5Mr ri,..,::,  .i; . . .,.
-      :,  .s,;:.   ,ir,.. ,  .:
-        .:i23Mi.:;ir:.,. ,.
-          ,;isr;;,. .:. .:
+                       .:..
+                    :o..ohssx;.:owdN@:
+                 .@Or.iri;;r;ii;:..::.0@.
+                :@rirx:;;;:;irsssrrsr;.re.            chiehpy@github
+               @#:skxx:....::...:;rssri:.:            ---------------------------
+              .O.:.rs..:.......:;i;iri;rr::
+              a;hmx;i:;iirr:......:;;;si;:k.
+             ;.xs;dOkooxxooxssxxxi:..;r;rs:r:         $ whoami
+           ...ex.eNwkeaoooaoaoooooss;;;.iro:x.        Desarrollo Android
+          ;sw@@o#@Okkkkhhhhhhhhkhex;.:i;;;hi.N
+         ;.Ox..m@Neoisaaakkkhkdkkmesodms.k@m.:@
+         @@...so#0dexxsxddhhhoxxxxxo0NOwrx0@@.h@
+         @@...a#0oOm:;ii0wokk:xsohhaaO0O....m@;i.     $ cat stack
+         @@...#@Oeaaoxowmmkrhas;raxokmOw..;.edwx.     Kotlin / Java / Python
+         @@...@@khaaeeohwdkeakhkkhmdwdNd.:.;@hdr      Android / Gradle
+         @@...@@maaooseN0akdhahkkmdwww@a.:.0Neh:
+         @d...@@dsrsxshhweoxeexokmmmdw@s..x@od.
+          @...N@e;iikdeoxxxaemkxshhhhw@...Nkmo.
+           .Ow0@krraoioeeoaaassaiohkk@a..owhi.        $ ls proyectos/
+              :NNaomw0kxaahaoxhhemkm#m..;ax:          ./tecnicos-app
+               .o0O0kdkxsxxohkkhhhhma..               Android / Kotlin
+               ..h@Nwkkeeehhhhheeohh.:
+          .0@ki..@@Owdhekkmkkexssa0s.r;::::
+       .#@@wr.ieaw@#0msirsssrrsadwxe.::.:i;:::
+     .@#Oh...a.Oo.@@@worrrrsokwOa.o:.....i.:;;;i:
+    0h;s;...x..ma:.w@#mhkmdwdkx..x;......i:::;s;:::
+  .os.i...e@@..so;;..sxoaxs;...:e........;::..;i:;;
+  so....mOheo...#.ii..........ex.........i:..i:.;;.
+ :e..rd@dxo:....kx.rsi..:...oh..:...:....i..;;..i..
 ```
 
 [`./tecnicos-app`](https://github.com/chiehpy/tecnicos-app) · Android / Kotlin
